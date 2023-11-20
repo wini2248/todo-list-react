@@ -1,0 +1,6 @@
+.font__color {
+    background: #008080;
+    background: radial-gradient(circle farthest-corner at center center, #008080 0%, #004D4D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
